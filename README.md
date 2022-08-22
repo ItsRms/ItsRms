@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ram Manohar Sharma.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning C++, DSA, Python.
+- 💞️ I’m looking to collaborate on C++ based projects.
+- 📫 You can reach me on iram.office@gmail.com.
